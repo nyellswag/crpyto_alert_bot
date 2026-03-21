@@ -1,2 +1,1 @@
-# crpyto_alert_bot
-telegram bot
+Some new options like: buttons, time updates etc.
